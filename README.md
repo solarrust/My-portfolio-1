@@ -1,2 +1,2 @@
 I am human
-![My photo]("C:\Users\gusarov.n.a\OneDrive\Рабочий стол\my repository\operator-evm2.jpg")
+![My photo](https://github.com/NikolayChegivarov/My-portfolio/blob/main/operator-evm2.jpg)
